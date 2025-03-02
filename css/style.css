@@ -397,3 +397,10 @@ body {
     background-position: center; /* Центрируем */
     background-repeat: no-repeat; /* Отключаем повторение */
 }
+
+body {
+    background-image: url('img/bg/photo_2025_02_20_11_51_51.jpg'); 
+    background-size: cover; /* Растягиваем картинку на весь экран */
+    background-position: center; /* Центрируем */
+    background-repeat: no-repeat; /* Отключаем повторение */
+}
